@@ -1,0 +1,17 @@
+table, th, td { 
+    border: 3px solid black;
+    border-collapse: collapse;
+    border-style:double ;
+}
+.table{
+    width: 800px;
+}
+main, header{
+    margin: auto 200px;
+}
+dt {
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
